@@ -1,5 +1,8 @@
-body {
+html {
     font-size: 10px;
+}
+
+body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -8,6 +11,7 @@ body {
 .wrapper {
     width: 1200px;
     margin: 0 auto;
+    border: 0.1rem solid black;
 }
 
 .header {
@@ -20,4 +24,37 @@ body {
     width: 20%;
     height: 20%;
     border: 0.1rem solid black;
+}
+
+.header_cv-name {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 2rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 4rem;
+}
+
+.conteiner_github,
+.coteiner_year  {
+    font-size: 3rem;
+}
+
+.rsschool_img {
+    width: 20rem;
+    height: 10rem;
 }
