@@ -1,0 +1,23 @@
+body {
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: wheat;
+}
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.header_img {
+    width: 20%;
+    height: 20%;
+    border: 0.1rem solid black;
+}
