@@ -6,6 +6,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    font-family: cursive;
 }
 
 
@@ -79,7 +80,12 @@ a {
 }
 
 .conteiner_ul {
-    font-size: 2rem;
+    font-size: 1.4rem;
+}
+
+.conteiner_ol {
+    font-size: 3rem;
+    text-decoration: underline;
 }
 
 .main-section {
