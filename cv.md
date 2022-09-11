@@ -2,8 +2,6 @@
 ## Contact information:
 **Location:** Kaliningrad, Russia
 
-**Phone:** +7921664424
-
 **E-mail:** taskekaminari@gmail.com
 
 **Telegram:** @SunzRain
@@ -11,6 +9,7 @@
 ---
 
 ## About me: 
+Friendly, responsible. I want to become Front-End Development in RS School! 
 
 ---
 ## Skills: 
@@ -23,7 +22,11 @@
 * VSCode
 ---
 ## Code example:
-
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 ---
 ## Work experience:
