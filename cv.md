@@ -20,7 +20,11 @@ Friendly, responsible. I want to become Front-End Development in RS School!
 * Photoshop
 * JavaScript (Basics)
 * VSCode
+
+
 ---
+
+
 ## Code example:
 ```
 function multiply(a, b){
